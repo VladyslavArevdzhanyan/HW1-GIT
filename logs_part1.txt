@@ -1,0 +1,13 @@
+98e5368 (HEAD -> master, origin/master, develop) HEAD@{0}: merge develop: Fast-forward
+4bfdc4d HEAD@{1}: checkout: moving from develop to master
+98e5368 (HEAD -> master, origin/master, develop) HEAD@{2}: merge feature2: Merge made by the 'recursive' strategy.
+cd43da5 (feature1) HEAD@{3}: merge feature1: Fast-forward
+7d882d7 HEAD@{4}: checkout: moving from feature2 to develop
+8b25c72 (feature2) HEAD@{5}: commit: added styles for index.html
+7d882d7 HEAD@{6}: checkout: moving from develop to feature2
+7d882d7 HEAD@{7}: checkout: moving from feature1 to develop
+cd43da5 (feature1) HEAD@{8}: commit: added some images
+7d882d7 HEAD@{9}: checkout: moving from develop to feature1
+7d882d7 HEAD@{10}: commit: create new file index.html
+4bfdc4d HEAD@{11}: checkout: moving from master to develop
+4bfdc4d HEAD@{12}: commit (initial): first commit
